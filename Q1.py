@@ -6,3 +6,7 @@
 #The client should provide the file path of the file to be transferred.
 #The server should specify the directory where the received file will be saved.
 #Ensure error handling for file I/O operations, socket connections, and pickling/unpickling.
+
+
+#Run Server_q1.py and Client_q1.py 
+
